@@ -9,6 +9,7 @@
         echo "This is global varible ->". $GLOBALS['x'];
         echo "<br>";
         echo "This is local variable ->".$y;
+        echo "This is test";
 
     }
 
